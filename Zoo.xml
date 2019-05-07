@@ -1,0 +1,125 @@
+<xml>
+<zoo>
+<zone class="mammal">
+<animal>
+	<name>Elephant</name>
+	<diet>small plants and fruits</diet>
+	<habitat>desert of the Savannah and forest areas.</habitat
+	<migrator>true</migrator>	
+	<description>Vrey big, grey, and has a trunk</description>	
+</animal>
+
+<animal>
+	<name>Lion</name>
+	<diet>Meat</diet>
+	<habitat>the savannah of africa</habitat>
+	<migrator>false</migrator>
+	<description>large cat, male has big mane female doesn't</description>
+</animal>
+
+<animal>
+	<name>Brown Bear</name>
+	<diet>Fish and berries</diet>
+	<habitat>high mountain forests and ice fields, as well as mountain woodlands.</habitat>
+	<migrator>true</migrator>
+	<description>large, brown, and furry</description
+</animal>
+</zone>
+	
+<zone class="bird">
+<animal>
+	<name>Kiwi</name>
+	<diet>bugs and seeds</diet>
+	<habitat>native forests and scrub to rough farmland and sand dunes.</habitat>
+	<migrator>false</migrator>
+	<description>small round bird with a long beak</description>
+</animal>
+
+<animal>
+	<name>Golden Pheasant</name>
+	<diet>seeds and berries</diet>
+	<habitat>mountains and valleys where it's dense with forest with thick undergrowth.</habitat>
+	<migrator>false</migrator>
+	<description>medium size bird with various colors</description>
+</animal>
+
+<animal>
+	<name>Turaco</name>
+	<diet>fruits</diet>
+	<habitat>sub-saharan africa, in the forests and woodland.</habitat>
+	<migrator>false</migrator>
+	<description>big triangle beak and blue and black colors</description>
+</animal>
+</zone>
+
+<zone class="reptile">
+<animal>
+	<name>Turtle</name>
+	<diet>gut-loaded insects</diet>
+	<habitat>fresh water areas such as ponds and rivers</habitat>
+	<migrator>false</migrator>
+	<description>small to medium size reptile with a hard shell</description>
+</animal>
+<animal>
+	<name>Crocodile</name>
+	<diet>fish</diet>
+	<habitat>tropical areas of africa and asia, near lakes and rivers.</habitat>
+	<migrator>false</migrator>
+	<description>big reptile with sharp teeth</description>
+</animal>
+<animal>
+	<name>Iguana</name>
+	<diet>leaves, flowers, and some fruits</diet>
+	<habitat>tropical forests of south america</habitat>
+	<migrator>false</migrator>
+	<description>medium reptile with spikey back.</description>
+</animal>
+</zone>
+<zone class="amphibians">
+<animal>
+	<name>Axolotl</name>
+	<diet>nightcrawlers</diet>
+	<habitat>lake complex of Xochimilco</habitat>
+	<migrator>false</migrator>
+	<description>very small amphibian with feathery wins on it's head</description>	
+</animal>
+<animal>
+	<name>Pacman Frog</name>
+	<diet>crickets, mealworms, and waxworms</diet>
+	<habitat>tropical areas</habitat>
+	<migrator>false</migrator>
+	<description>big frog with red spots all along it.</description>
+</animal>
+<animal>
+	<name>Newt</name>
+	<diet>brine shrimp, and bloodworms</diet>
+	<habitat>eastern north american ponds and lakes</habitat>
+	<migrator>false</migrator>
+	<description>very smooth small amphibian</description>
+</animal>
+</zone>
+<zone class="arthopods">
+<animal>
+	<name>Halloween Crab</name>
+	<diet>raw coconut, peices of fresh mango</diet>
+	<habitat>sand dunes and rain forests</habitat>
+	<migrator>false</migrator>
+	<description>red and black medium size crab.</description>
+</animal>
+<animal>
+	<name>Spider</name>
+	<diet>insects</diet>
+	<habitat>almost any habitat besides mountains and oceans.</habitat>
+	<migrator>false</migrator>
+	<description>medium size arthopod with small hairy legs for climbing</description>
+</animal>
+<animal>
+	<name>Ghost Mantis</name>
+	<diet>flies</diet>
+	<habitat>tropical and subtropical areas</habitat>
+	<migrator>true</migrator>
+	<description>red and white colored mantis with sandy </description>
+</animal>
+</zone>
+</zoo>
+</xml>
